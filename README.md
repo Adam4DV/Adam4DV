@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif"  />
 
 ###
 
@@ -35,7 +35,8 @@
 ###
 
 <div align="center">
-  <img height="120" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
+  <img height="150
+    " src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
 </div>
 
 ###
