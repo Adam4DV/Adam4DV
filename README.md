@@ -1,21 +1,17 @@
-<h3 align="left">Hi 👋! My name is Adam and I'm a 13 from Egypt</h3>
-
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif"  />
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
 
 ###
@@ -34,11 +30,12 @@
 
 ###
 
-<div align="center">
-  <img height="150
-    " src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
-</div>
+<img align="right" height="150" src="https://camo.githubusercontent.com/21140e99923762e27369292c9a046f21f916d55cf46ad3696b8bd585fd92bd12/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f504c49725f566b4636797741414141642f67686f7374656476706e2d6861636b65722d6361742e676966"  />
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Adam4DV/Adam4DV/output/snake.svg" alt="Snake animation" />
 
 ###
