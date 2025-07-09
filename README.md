@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam and I'm a 13 from Egypt 🇪🇬</h2>
+<h2 align="left">my name is Adam , Im 13</h2>
 
 ###
 
@@ -30,12 +30,11 @@
 
 ###
 
-<img align="right" height="1000" src="https://camo.githubusercontent.com/21140e99923762e27369292c9a046f21f916d55cf46ad3696b8bd585fd92bd12/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f504c49725f566b4636797741414141642f67686f7374656476706e2d6861636b65722d6361742e676966" />
+<img align="right" height="200" src="https://camo.githubusercontent.com/21140e99923762e27369292c9a046f21f916d55cf46ad3696b8bd585fd92bd12/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f504c49725f566b4636797741414141642f67686f7374656476706e2d6861636b65722d6361742e676966"  />
 
 ###
 
 <br clear="both">
-
 <div align="center">
   <img height="150
     " src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
