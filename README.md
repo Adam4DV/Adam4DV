@@ -36,6 +36,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adam4DV/Adam4DV/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="150
+    " src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
+</div>
 
 ###
