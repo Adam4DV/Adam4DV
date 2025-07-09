@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Adam4DV/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=Adam4DV&color=blue" alt="Profile views" />
 </div>
 
 ###
