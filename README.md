@@ -42,7 +42,6 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adam4DV&color=blue" alt="Profile views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Adam4DV&color=blue" alt="Profile views" /></div>
 
 ###
